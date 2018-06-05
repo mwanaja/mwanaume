@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -411,6 +413,44 @@ h6,
 .scrollToTop_wraper {
   display: none;
 }
+#content5-3p .mbr-section-title,
+#content5-3p p {
+  color: #fff;
+}
+#content5-3p .mbr-section-title {
+  font-size: 32px;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#content5-3p DIV {
+  color: #efefef;
+  text-align: center;
+}
+#content5-3p B {
+  color: #41a85f;
+}
+#features1-3k .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-3l .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-3m .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#header3-3o .mbr-section-title,
+#header3-3o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3o .mbr-section-title {
+  font-size: 36px;
+}
+#header3-3o .mbr-section-title SPAN {
+  color: #b8312f;
+}
+#features1-3n .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
 #form1-30 .form-control-label {
   color: #232323;
 }
@@ -437,16 +477,6 @@ h6,
 }
 #form1-x .form-control-label {
   color: #232323;
-}
-#header3-z .mbr-section-title,
-#header3-z .mbr-section-subtitle {
-  text-align: center;
-}
-#features1-10 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
-}
-#features1-1k .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #2e2e2e;
 }
 #header3-13 .mbr-section-title,
 #header3-13 .mbr-section-subtitle {
