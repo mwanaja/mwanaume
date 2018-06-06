@@ -69,18 +69,18 @@
             "showCaption": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert2.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/nguvuu-667x802.png",
             "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgColor": "#553982",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "title": "MAKALA ZIMAZO HUSU MATATIZO YA UZAZI KWA WANAUME PAMOJA NA TIBA ZAKE",
           "caption": "<b>Pata kufahamu matatizo yanayo wakumba wanaume &nbsp;katika mfumo wa uzazi &nbsp;na namna ya kuweza kuepukana nayo kwa kujikinga &nbsp;lakini pia kupata tiba na suluhisho ya matatizo hayo. baadhi ya matatizo hayo ni pamoja na UPUNGUFU WA NGUVU ZA KIUME, TEZI DUME na MENGINEYO&nbsp;</b>",
