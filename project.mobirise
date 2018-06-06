@@ -1,14 +1,14 @@
 {
   "settings": {
-    "name": "MWANAUME AFYA",
+    "name": "NGUVU ZA KIUME",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#c0a375",
+        "primaryColor": "#553982",
         "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
+        "successColor": "#00a885",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -27,11 +27,12 @@
     "versionFirst": "4.7.7",
     "uniqCompNum": 134,
     "versionPublish": "4.7.7",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/nguvuu-128x154.png",
     "noImageResize": "",
-    "siteUrl": "",
+    "siteUrl": "https://mwanaja.github.io/mwanaume/",
     "sitemapSwitcherAuto": "on",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
