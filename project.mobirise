@@ -34,6 +34,8 @@
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/nguvu-za-kiume1-128x112.png",
+    "noImageResize": "",
     "versionFirst": "4.7.8",
     "uniqCompNum": 80,
     "versionPublish": "4.7.8"
