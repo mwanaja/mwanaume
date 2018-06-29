@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NGUVU ZA KIUME",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 70,
+    "uniqCompNum": 74,
     "versionPublish": "4.7.8"
   },
   "pages": {
@@ -1726,7 +1726,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Kwa kadiri mwanaume anavyozeeka, ni jambo la kawaida pia kwa tezi dume kuongezeka ukubwa na kuvimba. Hali hii kitabibu huitwa Benign Prostate Hyperplasia.(BPH)</p><p><b>VYANZO VINAVYOPELEKEA TEZI DUME KUTANUKA\n</b></p><p>Tatizo la kutanuka kwa tezi dume limekuwa kwa kasi sana hii ni kutokana na mitindo ya maisha wanaume wengi wanayoishi. Pia na elimu ndogo iliyoko kwenye jamii kuhusu afya zao.</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Vifuatavyo ni vyanzo vya kutanuka kwa tezi dume:\n<div>- Ukosefu wa lishe kamili na Virutubisho muhimu mwilini.\n</div><div>- Uwepo wa sumu nyingi mwilini.\n</div><div>- Kutokufanya mazoezi.\n</div><div>- Matumizi ya pombe kali, na uvutaji wa sigara.\n</div><div>- Uzito mkubwa (uliopindukia, uliokithiri), na Kitambi.\n</div><div>- Kutokukaa sawa kwa vichocheo vya mwili (Hormone Imbalance).\n</div><div>- Msongo wa mawazo (Stress).\n</div><div>- Magonjwa ya zinaa.\n</div><div>- Umri mkubwa.\n</div><div>- Upasuaji wa korodani, kuzaliwa na korodani moja.\n</div><div>- Historia ya Familia (Kurithi).\n</div><div>- Mazingira (Ethnicity).\n</div><div>\n</div><div><br></div></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Kwa kadiri mwanaume anavyozeeka, ni jambo la kawaida pia kwa tezi dume kuongezeka ukubwa na kuvimba. Hali hii kitabibu huitwa Benign Prostate Hyperplasia.(BPH)</p><p><b>VYANZO VINAVYOPELEKEA TEZI DUME KUTANUKA\n</b></p><p>Tatizo la kutanuka kwa tezi dume limekuwa kwa kasi sana hii ni kutokana na mitindo ya maisha wanaume wengi wanayoishi. Pia na elimu ndogo iliyoko kwenye jamii kuhusu afya zao.</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Vifuatavyo ni vyanzo vya kutanuka kwa tezi dume:\n<div>- Ukosefu wa lishe kamili na Virutubisho muhimu mwilini.\n</div><div>- Uwepo wa sumu nyingi mwilini.\n</div><div>- Kutokufanya mazoezi.\n</div><div>- Matumizi ya pombe kali, na uvutaji wa sigara.\n</div><div>- Uzito mkubwa (uliopindukia, uliokithiri), na Kitambi.\n</div><div>- Kutokukaa sawa kwa vichocheo vya mwili (Hormone Imbalance).\n</div><div>- Msongo wa mawazo (Stress).\n</div><div>- Magonjwa ya zinaa.\n</div><div>- Umri mkubwa.\n</div><div>- Upasuaji wa korodani, kuzaliwa na korodani moja.\n</div><div>- Historia ya Familia (Kurithi).\n</div><div>- Mazingira (Ethnicity).</div><div><br></div><div><b>UNAWEZA KUJITIBU SASA TEZI DUME BILA KUTUMIA ILE NJIA YA OPERATION.\n</b></div><div><b>\n</b></div><div><b>&nbsp;WAWEZA KUTUONA SASA ILI UWEZE PATA IBA</b></div><div>\n</div><div>\n</div><div><br></div></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content3-1r",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -1867,7 +1867,7 @@
             }
           },
           "_name": "content3",
-          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Hivyo ukiona dalili mojawapo kati ya hizi chukua tahadhari na hatua mapema kabla hujaharibu mfumo wako mzima wa uzazi wa mwanaume.\n<div>a) Dalili za awali\n</div><div>- Kukojoa mkojo uliochanganyikana na damu\n</div><div>- Kukojoa mkojo wenye mtiririko dhaifu\n</div><div>- Maumivu kwenye mfumo wa mkojo\n</div><div>- Kuhisi maumivu wakati wa kukojoa\n</div><div>- Kuhisi kibofu kimeja mkojo muda wote na ukienda kukojoa mkojo hautoki, lakini ukirudi kukaa unahisi kukojoa tena.\n</div><div>- Homa\n</div><div>- Kukojoa mara kwa mara wakati wa usiku\n</div><div>b) Dalili za mtu aliyeathirika\n</div><div>- Maumivu ya mifupa hasa chini ya mgongo, kiuno na mbavu\n</div><div>- Miguu kuwa dhaifu\n</div><div>- Kushindwa kumudu tendo la ndoa, au Kuhisi maumivu makali wakati unamaliza tendo la ndoa\n</div><div>- Kushindwa kuzuia mkojo, pindi unapohisi kukojoa\n</div><div>- Kushindwa kuzuia haja kubwa (kinyesi cha maji maji)\n</div><div>- Tumbo kuja gesi mara kwa mara</div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Epuka madhara yasababishwayo na tezi dume kwa kutumia ProstatRelax maalum kwa matatizo ya tezi dume bila operation... Tumia Kama tiba au kinga, Hii ni ya uhakika kabisa bora kwa afya yako!</p><p><b>GHARAMA ZA MATIBABU\n</b></p><p>Dozi inagharimu kiasi cha tsh 630000 za kitanzania.\n</p><p>Kama una tatizo hilo wasiliana nami sasa kwa Whatsap au kawaida kwa namba\n</p><p>&nbsp;0659505081/ 0625932259\n</p><p>ili upate tiba hii ya ukweli na uhakika iliyokwisha saidia wengi wenye tatizo hili.\n</p><p>Kumbuka kuwa tiba hii inatolewa kwa wahitaji</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Hivyo ukiona dalili mojawapo kati ya hizi chukua tahadhari na hatua mapema kabla hujaharibu mfumo wako mzima wa uzazi wa mwanaume.\n<div>a) Dalili za awali\n</div><div>- Kukojoa mkojo uliochanganyikana na damu\n</div><div>- Kukojoa mkojo wenye mtiririko dhaifu\n</div><div>- Maumivu kwenye mfumo wa mkojo\n</div><div>- Kuhisi maumivu wakati wa kukojoa\n</div><div>- Kuhisi kibofu kimeja mkojo muda wote na ukienda kukojoa mkojo hautoki, lakini ukirudi kukaa unahisi kukojoa tena.\n</div><div>- Homa\n</div><div>- Kukojoa mara kwa mara wakati wa usiku\n</div><div>b) Dalili za mtu aliyeathirika\n</div><div>- Maumivu ya mifupa hasa chini ya mgongo, kiuno na mbavu\n</div><div>- Miguu kuwa dhaifu\n</div><div>- Kushindwa kumudu tendo la ndoa, au Kuhisi maumivu makali wakati unamaliza tendo la ndoa\n</div><div>- Kushindwa kuzuia mkojo, pindi unapohisi kukojoa\n</div><div>- Kushindwa kuzuia haja kubwa (kinyesi cha maji maji)\n</div><div>- Tumbo kuja gesi mara kwa mara</div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Epuka madhara yasababishwayo na tezi dume kwa kutumia ProstatRelax maalum kwa matatizo ya tezi dume bila operation... Tumia Kama tiba au kinga, Hii ni ya uhakika kabisa bora kwa afya yako!</p><p><i>UNAWEZA KUJITIBU SASA TEZI DUME BILA KUTUMIA ILE NJIA YA OPERATION.\n</i></p><p><i>&nbsp;WAWEZA KUTUONA SASA ILI UWEZE PATA IBA</i></p><p><b>GHARAMA ZA MATIBABU\n</b></p><p>Dozi inagharimu kiasi cha tsh 630000 za kitanzania.\n</p><p>Kama una tatizo hilo wasiliana nami sasa kwa Whatsap au kawaida kwa namba\n</p><p>&nbsp;0659505081/ 0625932259\n</p><p>ili upate tiba hii ya ukweli na uhakika iliyokwisha saidia wengi wenye tatizo hili.\n</p><p>Kumbuka kuwa tiba hii inatolewa kwa wahitaji</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content3-1w",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -1929,7 +1929,122 @@
         "title": "TEZI DUME 03",
         "order": 3
       },
-      "components": []
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>YAFAHAMU MADHARA YA TATIZO LA  TEZI DUME NA TIBA YA TEZI DUME SEHEMU YA TATU</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content4-1y",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qWniDIWlQD",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-right": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"75\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/t3-514x259.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Katika hatua za awali, tezi inapotanuka hugunduliwa kwa kupimwa kwa njia ya kidole. Hii ni njia ambayo daktari huingiza kidole kwenye njia ya haja kubwa ili kuweza kubaini kama tezi imetanuka. Kipimo hiki ndicho rahisi kinacho kubalika duniani kote na kisicho na gharama. Lakini kimekuwa kikipata upinzani kutoka kwa wanaume kutokana na imani potofu ya wahusika wa tatizo hili kuona ni udhalilishaji.\n<br><br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-1z",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qWniG5ciMp",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content3",
+          "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Kipimo kingine ni kipimo cha damu. Damu huchunguzwa aina ya protein inayozailishwa na seli za tezi dume, kiitwacho Prostate Antigen (PSA). PSA huonesha kuwapo kwa tatizo kwenye Tezi Dume, lakini kipimo hiki hakina uwezo wa kutofautisha endapo tatizo hilo linamaanisha saratani.</p><p><b>Yafuatayo ni madhara ya tezi iliyotanuka:\n</b></p><p>- Kibofu cha mkojo kuuma: hivyo hupelekea mkojo kurudi juu, na kuharibu figo na Ini … … n.k.\n</p><p>- Kufunga kwa njia ya mkojo kabisa\n</p><p>- Figo kushindwa kufanya kazi (Kidney Failure)\n</p><p><span style=\"font-size: 1rem;\">- Kushindwa kumudu tendo la ndoa (Ndoa zinavunjika)&nbsp;</span></p><p>- Ugumba (Infertility, Frigidity for men)\n</p><p>- Kutokea kwa majipu sehemu ya Tezi Dume\n</p><p>- Kifo</p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Epuka madhara yasababishwayo na tezi dume kwa kutumia ProstatRelax maalum kwa matatizo ya tezi dume bila operation... Tumia Kama tiba au kinga, Hii ni ya uhakika kabisa bora kwa afya yako!</p><p><b>UNAWEZA KUJITIBU SASA TEZI DUME BILA KUTUMIA ILE NJIA YA OPERATION.</b></p><p><b>&nbsp;WAWEZA KUTUONA SASA ILI UWEZE PATA IBA</b></p><p><b>GHARAMA ZA MATIBABU\n</b></p><p>Dozi inagharimu kiasi cha tsh 630000 za kitanzania.\n</p><p>Kama una tatizo hilo wasiliana nami sasa kwa Whatsap au kawaida kwa namba\n</p><p>&nbsp;0659505081/ 0625932259\n</p><p>ili upate tiba hii ya ukweli na uhakika iliyokwisha saidia wengi wenye tatizo hili.\n</p><p>Kumbuka kuwa tiba hii inatolewa kwa wahitaji</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content3-20",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qWniVggA3i",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".title": {
+              "margin-bottom": "2rem"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            },
+            "a:not([href]):not([tabindex])": {
+              "color": "#fff",
+              "border-radius": "3px"
+            },
+            "a.btn-white:not([href]):not([tabindex])": {
+              "color": "#333"
+            },
+            ".multi-horizontal": {
+              "flex-grow": "1",
+              "-webkit-flex-grow": "1",
+              "max-width": "100%"
+            },
+            ".input-group-btn": {
+              "display": "block",
+              "text-align": "center"
+            }
+          },
+          "_name": "form1",
+          "_customHTML": "<section class=\"mbr-section form1\" group=\"Forms\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"title col-12 col-lg-8\">\n                <h2 mbr-if=\"showTitle\" class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">ODA DAWA YA NGUVU ZA KIUME&nbsp;</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\"><b>Gharama ya DAWA kwa dozi ni Tsh 630000/=. Nusu dozi ni Tsh 325000/=\n</b><div><b><br></b></div></h3>\n            </div>\n        </div>\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div mbr-form class=\"media-container-column col-lg-8\">\n                    <div data-form-alert hidden>AHSANTE KWA KUWEKA ODA </div>\n            \n                    <form class=\"mbr-form\" action=\"mwanajamiiepanel@gmail.com\" method=\"post\" name=\"Mobirise Form\">\n                        <div class=\"row row-sm-offset\">\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"name\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"name\">Name</label>\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" data-form-field=\"Name\" required>\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"email\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"email\">Email</label>\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" data-form-field=\"Email\" required>\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 multi-horizontal\" data-for=\"phone\">\n                                <div class=\"form-group\">\n                                    <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"phone\">Phone</label>\n                                    <input type=\"tel\" class=\"form-control\" name=\"phone\" data-form-field=\"Phone\">\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"form-group\" data-for=\"message\">\n                            <label mbr-text class=\"form-control-label mbr-fonts-style\" mbr-theme-style=\"display-7\" for=\"message\">Message</label>\n                            <textarea type=\"text\" class=\"form-control\" name=\"message\" rows=\"7\" data-form-field=\"Message\"></textarea>\n                        </div>\n            \n                        <span mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\" class=\"input-group-btn\">\n                            <a href type=\"submit\" class=\"btn btn-primary btn-form\">SEND FORM</a>\n                        </span>\n                    </form>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "form1-21",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qWnjUFoYqo",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
     },
     "page12.html": {
       "settings": {
