@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NGUVU ZA KIUME",
-    "currentPage": "index.html",
+    "currentPage": "page19.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/nguvu-za-kiume1-128x112.png",
     "noImageResize": "",
     "versionFirst": "4.7.8",
-    "uniqCompNum": 126,
+    "uniqCompNum": 130,
     "versionPublish": "4.7.8"
   },
   "pages": {
@@ -73,11 +73,11 @@
           "_name": "content5",
           "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/nguvu%20za%20kiume1-2000x1749.png\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\">MAKALA ZIMAZO HUSU MATATIZO YA UZAZI KWA WANAUME PAMOJA NA TIBA ZAKE</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-section-subtitle\"><b>Pata kufahamu matatizo yanayo wakumba wanaume  katika mfumo wa uzazi  na namna ya kuweza kuepukana nayo kwa kujikinga  lakini pia kupata tiba na suluhisho ya matatizo hayo. baadhi ya matatizo hayo ni pamoja na UPUNGUFU WA NGUVU ZA KIUME, TEZI DUME na MENGINEYO&nbsp;</b></h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmCoYrMRM",
+          "_anchor": "content5-0",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-0"
+          "_params": {}
         },
         {
           "_styles": {
@@ -534,7 +534,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "DALILI",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -549,11 +549,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">DALILI ZA MTU ALIYE PUNGUKIWA NGUVU ZA KIUME NA TIBA YAKE KWA SIKU 30 TU</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmIvdS85O",
+          "_anchor": "content4-5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-5"
+          "_params": {}
         },
         {
           "_styles": {
@@ -577,11 +577,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"85\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/dalili-436x246.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">&nbsp; Ukosefu nguvu za kiume katika karne hii ya ishirini na moja imekuwa ni tatizo kubwa ikilinganishwa na kipindi cha zamani, halikadharika tatizo hili limekuwa likisababisha kuendelea kwa michepuko kila kukicha hata kupelekea ndoa na mahusiono mengi ya kimapenzi kufa.\n<br>\n<br>\n<br>\n<br>      Na maana halisi ya upungufu wa nguvu za kiume ni; Ukosefu ama upungufu wa nguvu za kiume ni ile hali ya mwanaume kutokuwa na uwezo wa kukamilisha tendo la ndoa kwa ufasaha.\n<br>\n<br>\n<br>\n<br>      Mwanaume mwenye tatizo la ukosefu ama upungufu wa nguvu za kiume anakuwa hana uwezo wa kumtosheleza mwanamke kwenye tendo la ndoa. Baade mwanamke baada ya huona hali hiyo huamua kwenda kwa mwanaume mwingine ambaye ana uwezo wa kukidhi matakwa yake ya kimapenzi husasani swala zima la tendo la ndoa.</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmK6B5nk8",
+          "_anchor": "content6-9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-9"
+          "_params": {}
         },
         {
           "_styles": {
@@ -595,11 +595,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Mwanaume aliyepungukiwa nguvu za kiume huwa na dalili zifuatazo.\n</b><div><b>1. Uume kusinyaa na kuwa kama wa mtoto\n</b></div><div><b>2. Uume kurudi ndani\n</b></div><div><b>3. Uume kusimama ukiwa legelege\n</b></div><div><b>4. Kufika kileleni haraka wakati wa tendo la ndoa.\n</b></div><div><b>5. Kushindwa kurudia raundi nyingine kwa uharaka baada ya raundi ya kwanza.\n</b></div><div><b>TIBA KWA MTU ALIYEPUNGUKIWA NGUVU ZA KIUME.\n</b></div><div><b>(XPOWER MAN, ZAMINOCAL, MICRO2 NA GINSENG COFEE)</b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmKntpiGY",
+          "_anchor": "content1-a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-a"
+          "_params": {}
         },
         {
           "_styles": {
@@ -660,11 +660,11 @@
           "_name": "features3",
           "_customHTML": "<section class=\"features3\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Cards Bg\" name=\"cardsBg\" value=\"#ffffff\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"media-container-row\" mbr-cards=\"bootstrap\">\n            <div class=\"card p-3 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/x-571x321.jpg\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            No Coding\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.com\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/z-1-192x452.jpg\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Mobile Friendly\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.com\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/g-676x513.jpg\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Unique Styles\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.com\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 3\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/m-480x481.jpg\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Unlimited Sites\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                           Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.com\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmLvXQoTK",
+          "_anchor": "features3-c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features3-c"
+          "_params": {}
         },
         {
           "_styles": {
@@ -678,11 +678,11 @@
           "_name": "content3",
           "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>Hii ni tiba bora na ya uhakika kabisa na hasa  kwa mtu aliye athiriwa na punyeto.\n</p><p></p><div><b>Tiba hii hufanya mambo yafuatayo:\n</b></div><div>A) Kuimarisha mishipa na misuli ya uume ulio\n&nbsp;<span style=\"font-size: 1rem;\">legea na hivyo kuurejeshea uwezo wake wa asili&nbsp;</span></div><div>B) Hutibu tatizo la uume kurudi ndani na kuwa kama wa mtoto mdogo\n</div><div>C) Humaliza tatizo la kusimama kwa uume\n</div><div>ukiwa legelege\n</div><div>D) Hutibu na kuponya kabisa tatizo la kufika\n</div><div>kieleleni haraka.\n</div><div>E) Huongeza hamu ya kufanya tendo la ndoa hata baada ya raundi ya kwanza.\n</div><div>f)kuunga tendo baada yakufika kileleni</div><p></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b>GHARAMA ZA MATIBABU\n</b><div>Dozi yetu inagharimu kiasi cha <b>285000</b> za kitanzania.\n</div><div>Kama una tatizo hilo wasiliana nami sasa kwa Whatsap au kawaida kwa namba\n</div><div>&nbsp;0659505081/ 0625932259\n</div><div>ili upate tiba hii ya ukweli na uhakika iliyokwisha saidia wengi wenye tatizo hili.\n</div><div>Kumbuka kuwa tiba hii inatolewa kwa wahitaji\n</div><div>NB: Usikae kimya ndugu,\n</div><div>Karibu uondoe stress na aibu hiyo ya kudharirika mbele ya mke/mpenzi wako.\n</div><div>Dawa ni kwa wanao hitaji tu</div></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmM7T1FE5",
+          "_anchor": "content3-d",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content3-d"
+          "_params": {}
         },
         {
           "_styles": {
@@ -734,7 +734,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "MFUMO",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -749,11 +749,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\"><b>MFUMO WA MAISHA &nbsp;UNAO SABABISHA TATIZO LA UPUNGUFU WA NGUVU ZA KIUME&nbsp;</b></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmNStdT2R",
+          "_anchor": "content4-f",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-f"
+          "_params": {}
         },
         {
           "_styles": {
@@ -777,11 +777,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"75\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/mfumo-436x292.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Kwa sasa kuna wimbi kubwa la watu ambao wanasumbuliwa na tatizo la nguvu za kiume, wengi wao matatizo yao yanatumiika kwa kubadili mfumo wa maisha tu na wachache ambao wamejiharibu kwa kujichua na magonjwa mengine ndio wanaweza kuhitaji matibabu ya muda fualani.</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmOvUuIR5",
+          "_anchor": "content6-g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-g"
+          "_params": {}
         },
         {
           "_styles": {
@@ -795,11 +795,11 @@
           "_name": "content3",
           "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline>Katika tafiti zangu nimegundua yafuatayo ni chanzo cha kuishiwa nguvu za kiume, changamoto ambayo imeletwa na mfumo wa maisha.\n<div>\n</div><div><b>1. Msongo mkubwa wa mawazo;\n</b></div><div>Nguvu za kiume na hamu ya kushiriki tendo hili huanzia kichwani mpaka kwenye uume wa binadamu, watu wenye misongo ya mawazo sababu ya kushindwa kutimiza wajibu wao wa kazi waliopewa kwa wakati, misongo ya mawazo sababu ya majukumu makubwa ya kifamilia ambayo yanakuja na huenda hakuna fedha za kukabiliana na hali hizo, msongo wa mawazo wa biashara zinazoyumba humfanya mwanaume asiweze kushiriki kabisa tendo la ndoa...\n</div><div>\n</div><div><br></div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>omba msaada kama kazi zimekuzidi tafuta msaidizi kama umeajiajiri, kama waliokuajiri hawakuelewi tafuta kazi nyingine na uachane na hiyo kazi ya kufanya kazi usiku mpaka usiku lakini pia muda wa kazi ukiisha undoka kwenda nyumbani haraka kwenda nyumbani hakuna sifa ya kufanya kazi masaa mengi wakati mahusiano yako yanakufa.watu wanaofanya kazi benki ni wahanga sana wa matatizo haya.</p><p>Lakini pia dawa zinazotolewa kutibu msongo wa mawazo huharibu nguvu hizi za kiume pia.</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmOxmY6Gs",
+          "_anchor": "content3-h",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content3-h"
+          "_params": {}
         },
         {
           "_styles": {
@@ -813,11 +813,11 @@
           "_name": "content3",
           "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b>2. Ulevi wa kupindukia;\n<span style=\"font-size: 1rem;\"></span></b><div>Unaweza kua unapenda kunywa pombe angalau kustarehe na kuonana na ndugu na jamaa lakini unywaji wa pombe kupitiliza ni hatari sana, humaliza nguvu za kiume na kukosesha hamu. habari njema ni kwamba pombe kidogo angalau pia moja mpaka mbili kwa siku ni nzuri kwa nguvu za kiume na afya ya moyo.\n</div><div>\n</div><div><b>3. Dawa mbalimbali;\n</b></div><div>Baadhi ya dawa zinzotumika kwa shida mbalimbali au magonjwa mbalimbali zimethibitika kupunguza nguvu za kiume hasa zile zinazomezwa mara kwa mara au kila siku mfano dawa za presha, dawa za maumivu na dawa za msongo wa mawazo.\n</div><div>Kumbuka usiache dawa kama una ugonjwa unaohitaji dawa kila siku sababu umesoma hapa, kwa upande mwingine uhai unaweza kua muhimu kuliko nguvu za kiume.</div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>4. kufikiria sana; &nbsp;</b><span style=\"font-size: 1rem;\">huwezi kupata nguvu za kiume kama unafikiria mambo mengi yanayokuathiri Labda maumivu ya vifo ya wapendwa, maumivu ya kuachishwa kazi, maumivu ya kusalitiwa na mpenzi au kuachwa, na uchovu sana wa shughuli za kila siku. jaribu kurelax, kukubali matokeo, kupata usingizi wa kutosha na kushiriki mazoezi na kumbuka mazoezi yakiwa makali sana humaliza nguvu za kiume.&nbsp;</span></p><p><span style=\"font-size: 1rem;\"><b>5. Hasira;</b> &nbsp;</span><span style=\"font-size: 1rem;\">Hasira juu ya mwenzi wako au mtu yeyote aliyekukwaza hufanya ushindwe kushiriki tendo la ndoa, hakikisha unamwambia mpenzi wako mambo yanayokukwaza...kuyaweka moyoni haitakusaidia hata kidogo.</span></p><p></p><div>\n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><p></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmOyEw2eN",
+          "_anchor": "content3-j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content3-j"
+          "_params": {}
         },
         {
           "_styles": {
@@ -831,11 +831,11 @@
           "_name": "content3",
           "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b>6. Wasiwasi;</b>\n<div>\n<span style=\"font-size: 1rem;\">Wanaume wakishapata matukio kadhaa ya kuadhirika na kushindwa kufanya tendo la ndoa huanza kuogopa kukutana tena na mwanamke kwa hofu kwamba wataadhirika tena...tafuta chanzo ni nini na urekibishe, huenda siku hiyo haukua vizuri au ulikua na njaa...kisha jiamini kwamba sasa ntafanikisha.&nbsp;</span></div><div>\n</div><div><b>7. Vitambi na unene;\n</b><span style=\"font-size: 1rem;\"></span></div><div>Vijana wengi kwanzia miaka 30 mpaka 40 hilo ndio tatizo lao kubwa, yaani kukosa nidhamu ya kupambana na ungezeko la miili yao na matokeo yake uume hua mdogo na nguvu kidogo sana lakini pia ulaji wa vyakula vya haraka kama chips na mikaango mbalimbali wakati wa kazi na kusahau vyakula asilia kama mihogo,karanga, ugali,wali, matunda na mboga za majani...asikudanganye mtu kama umeshindwa kupungua uzito nguvu za kiume utazisikia redioni.\n</div><div>\n</div><div><br></div></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><b>8. kutojiamini;</b>\n<div>\n<span style=\"font-size: 1rem;\">Baadhi ya wanaume hushindwa kujiamini kwa kujikosoa vitu mbalimbali vilivyoko kwenye miili yao ambavyo wakati mwingine hata mwanamke mwenyewe havijali sana mfano kuhisi ana uume mdogo sana wakati uume wake ni wa kawaida, kuhisi hana mwili mzuri na kadhalika. </span></div><div><span style=\"font-size: 1rem;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></div><div><b>9. Kukosa hamu ya tendo la ndoa;\n</b></div><div>\n</div><div>Kwa maisha ya sasa hii husababishwa na kuchoka sana na kazi na kukosa muda wa kupumzika, kuna watu wanafanya kazi kila siku ya maisha yao kwa madai wana roho za kichaga...hizo pesa unazotafuta huku unaharibu afya hazitakusaidia kwa lolote hata ukizipata mwisho wa safari na utaibiwa mke na walafi wa mtaani.</div></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWmOxWPV3t",
+          "_anchor": "content3-i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content3-i"
+          "_params": {}
         },
         {
           "_styles": {
@@ -907,7 +907,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "KILELENI",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -1033,7 +1033,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "DALILI KUU",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -1179,7 +1179,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "KILELENI2",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -1196,11 +1196,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qWmVjkOfux",
+          "_anchor": "content4-r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-r"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1226,11 +1226,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qWmVjlvN6v",
+          "_anchor": "content6-s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-s"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1246,11 +1246,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qWmVjlX4jd",
+          "_anchor": "content3-t",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content3-t"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1330,11 +1330,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qWmVjmqUIO",
+          "_anchor": "form1-u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "form1-u"
+          "_params": {}
         }
       ]
     },
@@ -1342,7 +1342,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "CHANZO",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -1468,7 +1468,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "VYAKULA",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -1596,11 +1596,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>TIBA YA TATIZO\n</b><div><b>Tatizo hili linatibika hivyo basi usukae kimya endapo una dalili hizo hapo juu. wahi sasa ili kuweza kujitibia .\n</b></div><div><b>GHARAMA ZA MATIBABU\n</b></div><div><b>Dozi yetu inagharimu kiasi cha 285000 za kitanzania.\n</b></div><div><b>Kama una tatizo hilo wasiliana nami sasa kwa Whatsap au kawaida kwa namba\n</b></div><div><b>&nbsp;0659505081/ 0625932259\n</b></div><div><b>ili upate tiba hii ya ukweli na uhakika iliyokwisha saidia wengi wenye tatizo hili.\n</b></div><div><b>Kumbuka kuwa tiba hii inatolewa kwa wahitaji\n</b></div><div><b>NB: Usikae kimya ndugu,\n</b></div><div><b>Karibu uondoe stress na aibu hiyo ya kudharirika mbele ya mke/mpenzi wako.\n</b></div><div><b>Dawa ni kwa wanao hitaji tu</b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWn4Pzrlss",
+          "_anchor": "content1-1d",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-1d"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1652,7 +1652,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "MAMBO",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -1797,11 +1797,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Mambo mengine yanayo sababisha ukosefu na upungufu wa nguvu za kiume, ni pamoja na maumivu majeraha kwenye uti wa mgongo, chango la kiume , ngiri na matatizo katika homoni.</b></p><p><b>GHARAMA ZA MATIBABU\n</b></p><p><b style=\"font-size: 1rem;\">Dozi yetu inagharimu kiasi cha 285000 za kitanzania.&nbsp;</b></p><p><b>Kama una tatizo hilo wasiliana nami sasa kwa Whatsap au kawaida kwa namba\n</b></p><p><b>&nbsp;0659505081/ 0625932259\n</b></p><p><b>ili upate tiba hii ya ukweli na uhakika iliyokwisha saidia wengi wenye tatizo hili.\n</b></p><p><b>Kumbuka kuwa tiba hii inatolewa kwa wahitaji\n</b></p><p><b>NB: Usikae kimya ndugu,\n</b></p><p><b>Karibu uondoe stress na aibu hiyo ya kudharirika mbele ya mke/mpenzi wako.\n</b></p><p><b>Dawa ni kwa wanao hitaji tu</b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWnaATfMWZ",
+          "_anchor": "content1-1n",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-1n"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1853,7 +1853,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "TEZI DUME 01",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1941,11 +1941,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>GHARAMA ZA MATIBABU\n</b><div><b>Dozi inagharimu kiasi cha tsh 630000 za kitanzania.\n</b></div><div><b>Kama una tatizo hilo wasiliana nami sasa kwa Whatsap au kawaida kwa namba\n</b></div><div><b>&nbsp;0659505081/ 0625932259\n</b></div><div><b>ili upate tiba hii ya ukweli na uhakika iliyokwisha saidia wengi wenye tatizo hili.\n</b></div><div><b>Kumbuka kuwa tiba hii inatolewa kwa wahitaji</b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWnd67jFQ7",
+          "_anchor": "content1-1s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-1s"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1997,7 +1997,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "TEZI DUME O2",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2123,7 +2123,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "TEZI DUME 03",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2249,7 +2249,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "TEZI DUME O4",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2395,7 +2395,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "KISUKARI",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2543,11 +2543,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Je,unasumbuliwa na kisukari na unahitaji usaidiwe?\n</b><div><b>Inawezekana kabisa kuondokana na matatizo yote niliyoyataja hapo juu kwa kutumia bidhaa tulizo nazo. Kama unasumbuliwa na tatizo hili la kisukari tafadhali wasiliana nasi&nbsp;</b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWnANaiLGY",
+          "_anchor": "content1-2h",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-2h"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2608,11 +2608,11 @@
           "_name": "features3",
           "_customHTML": "<section class=\"features3\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Cards Bg\" name=\"cardsBg\" value=\"#ffffff\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background2.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"media-container-row\" mbr-cards=\"bootstrap\">\n            <div class=\"card p-3 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/sukari-600x600.jpg\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            DOZI YA KISUKARI</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Mobirise is an easy website builder - just drop site elements to your page, add content and style it to look the way you like.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.com\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"@PROJECT_PATH@/assets/images/sukari-600x600.jpg\" alt=\"Mobirise\" title>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Mobile Friendly\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            All sites you make with Mobirise are mobile-friendly. You don't have to create a special mobile version of your site.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.com\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"../_images/img/03.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Unique Styles\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Mobirise offers many site blocks in several themes, and though these blocks are pre-made, they are flexible.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.com\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 3\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\">\n                        <img src=\"../_images/img/01.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Unlimited Sites\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                           Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.com\" class=\"btn btn-primary\">\n                            Learn More\n                        </a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qWnBHAuO14",
+          "_anchor": "features3-2i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features3-2i"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2664,7 +2664,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "PRESHA",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2901,7 +2901,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "SHINIKIZO",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3218,7 +3218,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "CHANGO LA UZAZI",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3344,7 +3344,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "HEDHI",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -3470,7 +3470,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "VIDONDA",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3605,6 +3605,239 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "qWo683W17E",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        }
+      ]
+    },
+    "page19.html": {
+      "settings": {
+        "meta_descr": "Web Maker Description",
+        "title": "DAWA ZETU",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "h2": {
+              "text-align": "center"
+            },
+            "h4": {
+              "text-align": "center",
+              "z-index": "1",
+              "color": "#ffffff"
+            },
+            "p": {
+              "z-index": "1",
+              "margin-bottom": "0",
+              "color": "#ffffff"
+            },
+            ".media-container-row": {
+              "word-wrap": "break-word",
+              "word-break": "break-word",
+              "align-items": "stretch",
+              "-webkit-align-items": "stretch"
+            },
+            ".card-img": {
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "height": "100%",
+              "width": "100%",
+              "overflow": "hidden",
+              "img": {
+                "z-index": "-1",
+                "min-height": "100%",
+                "min-width": "100%",
+                "width": "auto",
+                "max-width": "600px"
+              }
+            }
+          },
+          "_name": "features13",
+          "_customHTML": "<section class=\"features13\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' &amp;&amp; bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Subtitles\" name=\"showSubtitle\" checked=\"\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked=\"\">\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected=\"\">3</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/06.jpg\" parallax=\"\">\n            <input type=\"color\" title=\"Background Color\" value=\"#f9f9f9\" selected=\"\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h2 class=\"mbr-section-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>NUNUA DAWA HAPA</b></h2>\n\n        <div class=\"media-container-row container\" mbr-cards=\"bootstrap\">\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Over 400 Amazing Blocks\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise offers several themes that include sliders, galleries, article blocks and many more.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jumbotron2.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Easy and Simple to Use\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Drop the blocks into the page, edit content inline and publish - no technical skills required.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/background5.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Unlimited Sites\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                </p>\n            </div>    \n        </div>\n</div></section>",
+          "_anchor": "features13-3i",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qWocqnX0FM",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "h2": {
+              "text-align": "center"
+            },
+            "h4": {
+              "text-align": "center",
+              "z-index": "1",
+              "color": "#ffffff"
+            },
+            "p": {
+              "z-index": "1",
+              "margin-bottom": "0",
+              "color": "#ffffff"
+            },
+            ".media-container-row": {
+              "word-wrap": "break-word",
+              "word-break": "break-word",
+              "align-items": "stretch",
+              "-webkit-align-items": "stretch"
+            },
+            ".card-img": {
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "height": "100%",
+              "width": "100%",
+              "overflow": "hidden",
+              "img": {
+                "z-index": "-1",
+                "min-height": "100%",
+                "min-width": "100%",
+                "width": "auto",
+                "max-width": "600px"
+              }
+            }
+          },
+          "_name": "features13",
+          "_customHTML": "<section class=\"features13\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitles\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/06.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f9f9f9\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h2 class=\"mbr-section-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>NUNUA DAWA HAPA</b></h2>\n\n        <div class=\"media-container-row container\" mbr-cards=\"bootstrap\">\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Over 400 Amazing Blocks\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise offers several themes that include sliders, galleries, article blocks and many more.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jumbotron2.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Easy and Simple to Use\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Drop the blocks into the page, edit content inline and publish - no technical skills required.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/background5.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Unlimited Sites\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                </p>\n            </div>    \n        </div>\n</div></section>",
+          "_anchor": "features13-3j",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qWocs2FM9C",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "h2": {
+              "text-align": "center"
+            },
+            "h4": {
+              "text-align": "center",
+              "z-index": "1",
+              "color": "#ffffff"
+            },
+            "p": {
+              "z-index": "1",
+              "margin-bottom": "0",
+              "color": "#ffffff"
+            },
+            ".media-container-row": {
+              "word-wrap": "break-word",
+              "word-break": "break-word",
+              "align-items": "stretch",
+              "-webkit-align-items": "stretch"
+            },
+            ".card-img": {
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "height": "100%",
+              "width": "100%",
+              "overflow": "hidden",
+              "img": {
+                "z-index": "-1",
+                "min-height": "100%",
+                "min-width": "100%",
+                "width": "auto",
+                "max-width": "600px"
+              }
+            }
+          },
+          "_name": "features13",
+          "_customHTML": "<section class=\"features13\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitles\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/06.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f9f9f9\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h2 class=\"mbr-section-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>NUNUA DAWA HAPA</b></h2>\n\n        <div class=\"media-container-row container\" mbr-cards=\"bootstrap\">\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Over 400 Amazing Blocks\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise offers several themes that include sliders, galleries, article blocks and many more.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jumbotron2.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Easy and Simple to Use\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Drop the blocks into the page, edit content inline and publish - no technical skills required.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/background5.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Unlimited Sites\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                </p>\n            </div>    \n        </div>\n</div></section>",
+          "_anchor": "features13-3k",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qWocsFfeKb",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "h2": {
+              "text-align": "center"
+            },
+            "h4": {
+              "text-align": "center",
+              "z-index": "1",
+              "color": "#ffffff"
+            },
+            "p": {
+              "z-index": "1",
+              "margin-bottom": "0",
+              "color": "#ffffff"
+            },
+            ".media-container-row": {
+              "word-wrap": "break-word",
+              "word-break": "break-word",
+              "align-items": "stretch",
+              "-webkit-align-items": "stretch"
+            },
+            ".card-img": {
+              "position": "absolute",
+              "top": "0",
+              "left": "0",
+              "height": "100%",
+              "width": "100%",
+              "overflow": "hidden",
+              "img": {
+                "z-index": "-1",
+                "min-height": "100%",
+                "min-width": "100%",
+                "width": "auto",
+                "max-width": "600px"
+              }
+            }
+          },
+          "_name": "features13",
+          "_customHTML": "<section class=\"features13\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitles\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/06.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#f9f9f9\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <h2 class=\"mbr-section-title pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\"><b>NUNUA DAWA HAPA</b></h2>\n\n        <div class=\"media-container-row container\" mbr-cards=\"bootstrap\">\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jumbotron.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Over 400 Amazing Blocks\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise offers several themes that include sliders, galleries, article blocks and many more.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/jumbotron2.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Easy and Simple to Use\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Drop the blocks into the page, edit content inline and publish - no technical skills required.\n                </p>\n            </div>\n            <div class=\"card col-12 col-md-6 p-5 m-3 align-center\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/background5.jpg\" alt=\"Mobirise\">\n                </div>\n                <h4 class=\"card-title py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\">\n                    Unlimited Sites\n                </h4>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\">\n                    Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.\n                </p>\n            </div>    \n        </div>\n</div></section>",
+          "_anchor": "features13-3l",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "qWoctdB3On",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
